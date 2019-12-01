@@ -26,3 +26,15 @@ The code implements the local color-weighted disparity estimation algorithm and 
 - One slice of cost volume
 
 ![one_slice_cost_volume](docs/one_slice_cost_volume.JPG)
+
+- Left disparity estimation without aggregation
+
+![left_disp_wo_agg](docs/left_disparity_estimation_wo_aggregation.JPG)
+
+- Left disparity estimation with block aggregation
+
+![left_disp_blk_agg](docs/left_disparity_estimation_block_aggregation.JPG)
+
+- Left disparity estimation with gaussian aggregation
+
+![left_disp_gaussian_agg](docs/left_disparity_estimation_gaussian_aggregation.JPG)
