@@ -1,6 +1,8 @@
 # stereo-matching
 Dense disparity estimation via local stereo matching
 
+![diagram](docs/stereo-matching-diagram.JPG)
+
 ## Overview
 The code implements the local color-weighted disparity estimation algorithm and evaluates its performance on a set of stereo image pairs. The algorithm includes the following steps:
 
