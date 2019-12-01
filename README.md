@@ -21,3 +21,7 @@ The code implements the local color-weighted disparity estimation algorithm and 
 - Comparison of the performance of block matching and Gaussian smoothing for different sizes of aggregation windows
 - Comparison of local color-weighted filtering against the two others above
 - Visual assessment of the effect of occlusion filling
+
+## Results:
+
+![one_slice_cost_volume](docs/OneSliceCostVolume-eps-converted-to.pdf)
