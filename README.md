@@ -58,3 +58,12 @@ The code implements the local color-weighted disparity estimation algorithm and 
 - Left compansated (filled) occlusion map
 
 ![left_occlusion_map_filled](docs/left_occlusion_map_filled.JPG)
+
+- Comparison of color-weighted aggregation and the others
+
+![cmp_colorweighted_filtering](docs/compare_blk_gaussian_colorweighted_agg.JPG)
+
+- Left disparity estimation with color-weighted aggregation
+
+![left_disp_colorweighted](docs/left_disparity_estimation_colorweighted.JPG)
+
