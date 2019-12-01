@@ -42,3 +42,7 @@ The code implements the local color-weighted disparity estimation algorithm and 
 - Comparison of block and gaussian filtering
 
 ![cmp_blk_gauss_filtering](docs/compare_blk_gaussian_filtering.JPG)
+
+- Left and right disparity estimation with gaussian aggregation
+
+![cmp_lr_disp_map](docs/compare_left_right_disparity_maps.JPG)
