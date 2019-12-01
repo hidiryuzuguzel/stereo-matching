@@ -46,3 +46,15 @@ The code implements the local color-weighted disparity estimation algorithm and 
 - Left and right disparity estimation with gaussian aggregation
 
 ![cmp_lr_disp_map](docs/compare_left_right_disparity_maps.JPG)
+
+- Left occlusion map
+
+![left_occlusion_map](docs/left_occlusion_map.JPG)
+
+- Left confidence map
+
+![left_confidence_map](docs/left_confidence_map.JPG)
+
+- Left compansated (filled) occlusion map
+
+![left_occlusion_map_filled](docs/left_occlusion_map_filled.JPG)
