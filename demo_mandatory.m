@@ -8,9 +8,6 @@
 clear;
 close all;
 clc;
-rmpath('./pfunctions/');
-rmpath('./Functions/');
-%addpath('./pfunctions/');
 addpath('./Functions/');
 
 %dataset = 'sawtooth'; factor = 8;
