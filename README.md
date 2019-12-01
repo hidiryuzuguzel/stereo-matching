@@ -23,5 +23,6 @@ The code implements the local color-weighted disparity estimation algorithm and 
 - Visual assessment of the effect of occlusion filling
 
 ## Results:
+- One slice of cost volume
 
-![one_slice_cost_volume](docs/OneSliceCostVolume-eps-converted-to.pdf)
+![one_slice_cost_volume](docs/one_slice_cost_volume.JPG)
